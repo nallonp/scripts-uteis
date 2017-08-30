@@ -1,0 +1,5 @@
+AdobeServices
+BASupSrvc
+BASupportExpressStandaloneService
+Spooler
+p2psvc
